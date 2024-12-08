@@ -17,7 +17,7 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 ![Monthly_view png](https://github.com/user-attachments/assets/f90e7653-93a8-4adf-a2f2-bf8ff6651cf9)
 # Learnt things from this Project
 * Clean data and connect data sets
-*Creating measures and calculated columns (to create other metrics)
+* Creating measures and calculated columns (to create other metrics)
 * Finding insights after EDA process
 * Usage of slicers to narrow down the requirements.
 * **New Visuals**: Learned to build different types of visuals and their uses for versatile analysis.
