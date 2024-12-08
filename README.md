@@ -31,6 +31,7 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 * Delhi tops both in occupancy and rating followed by Hyderabad, Mumbai, Bangalore
 * AtliQ lost around 295 Million in cancellation.
 * Elite type rooms has the most booking and as well higher cancellation rate.
+* **Positive Revenue Trend**:  Total revenue reaches 572.9M, surpassing target goals, contributing to the overall success of the revenue management strategy.
 
 
 
