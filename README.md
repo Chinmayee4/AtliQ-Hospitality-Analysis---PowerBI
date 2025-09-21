@@ -12,7 +12,7 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 # Data Model
 ![Data Model png](https://github.com/Chinmayee4/AtliQ-Hospitality-Analysis---PowerBI/blob/d2983c98670c4af75aee164cbe7399d948c5091f/resources/data%20model.png)
 # Overall Analysis View
-![Overall_view png](https://github.com/Chinmayee4/AtliQ-Hospitality-Analysis---PowerBI/blob/d2983c98670c4af75aee164cbe7399d948c5091f/Atliq_hospitality_anaysis.pdf)
+![Overall_view png](Atliq_hospitality_anaysis.pdf)
 
 # Key Achievements
 * Improved Occupancy Rates: analytics efforts led to a significant increase in hotel occupancy rates, optimizing room utilization and revenue.
