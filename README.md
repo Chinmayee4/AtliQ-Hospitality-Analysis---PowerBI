@@ -10,11 +10,10 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 # Provided Mock-up Dashboard
 ![mock up dashboard_atliq grands](https://github.com/user-attachments/assets/0d4517ff-455b-42b9-aa91-ae217f3ed7f4)
 # Data Model
-![Data Model png](https://github.com/user-attachments/assets/38b621fc-6e73-4ee9-b97e-cd2b5c8c6bbd)
+![Data Model png](https://github.com/Chinmayee4/AtliQ-Hospitality-Analysis---PowerBI/blob/d2983c98670c4af75aee164cbe7399d948c5091f/resources/data%20model.png)
 # Overall Analysis View
-![Overall_view png](https://github.com/user-attachments/assets/6b9dceba-07e9-43d9-83e6-31391f50022c)
-# Monthly Analysis View
-![Monthly_view png](https://github.com/user-attachments/assets/f90e7653-93a8-4adf-a2f2-bf8ff6651cf9)
+![Overall_view png](https://github.com/Chinmayee4/AtliQ-Hospitality-Analysis---PowerBI/blob/d2983c98670c4af75aee164cbe7399d948c5091f/Atliq_hospitality_anaysis.pdf)
+
 # Key Achievements
 * Improved Occupancy Rates: analytics efforts led to a significant increase in hotel occupancy rates, optimizing room utilization and revenue.
 
