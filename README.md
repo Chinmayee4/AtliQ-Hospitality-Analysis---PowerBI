@@ -15,23 +15,38 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 ![Overall_view png](https://github.com/user-attachments/assets/6b9dceba-07e9-43d9-83e6-31391f50022c)
 # Monthly Analysis View
 ![Monthly_view png](https://github.com/user-attachments/assets/f90e7653-93a8-4adf-a2f2-bf8ff6651cf9)
+# Key Achievements
+* Improved Occupancy Rates: analytics efforts led to a significant increase in hotel occupancy rates, optimizing room utilization and revenue.
+
+* Enhanced Customer Satisfaction: By analyzing customer feedback, we identified areas for improvement and boosted overall customer satisfaction by average rating.o
+
+* Optimized Revenue Pricing Strategies: Data-driven approach allowed for dynamic pricing, resulting in higher revenues and better market positioning.
 # Learnt things from this Project
-* Clean data and connect data sets
-* Creating measures and calculated columns (to create other metrics)
-* Finding insights after EDA process
-* Usage of slicers to narrow down the requirements.
-* **New Visuals**: Learned to build different types of visuals and their uses for versatile analysis.
-* **Cancellation Policies**: Explored various cancellation policies, discovering that most hotels charge zero fees if canceled within three months of booking.
-* Tried using color palette and stick with that colors throughout the dashboard
+* key metrices learnt:
+* revenue
+* RevPAR
+* ADR
+* DBRN
+* DSRN
+* DURN
+* Realisation %
+* occupancy and cancellation %
+# power BI fundamentals
+* data cleaning and snowflake schema modelling
+* learnt about page navigation, tool tip,conditional formatting
+* created donut ,line,ribbon , line and clustered columns chart, matrix table.
+# soft skills
+* domain knowledge in hospitality
+* understanding stakeholders requirement from mock up dashboard
 # Important insights from the Dashboard
 * Mumbai generates the highest revenue (661 M) followed by Bangalore, Hyderabad and Delhi
-* AtliQ Exotica performs better compared to all 7 type of properties with 320 Million revenue, rating 3.62, occupancy percentage 57 and cancellation rate as 24.37%.
-* AtliQ Bay has the highest occupancy of 58%
-* Week 24 recorded the highest revenue among all, which is 139.6 Million
-* Delhi tops both in occupancy and rating followed by Hyderabad, Mumbai, Bangalore
-* AtliQ lost around 295 Million in cancellation.
-* Elite type rooms has the most booking and as well higher cancellation rate.
-* **Positive Revenue Trend**:  Total revenue reaches 572.9M, surpassing target goals, contributing to the overall success of the revenue management strategy.
+* AtliQ Exotica performs better compared to all 7 type of properties with 316 Million revenue, rating 3.62, occupancy % 57.20 and cancellation rate as 24.39%.
+* Occupancy % is highest for Delhi i.e 60.44%  inspite ofhaving lowest DSRN 435 and lowest for Bangalore is 55.68%.
+* Elite room class  generated highest revenue 554M whereas standard room class generated lowest revenue 306M.
+* Maximum number of bookings from others (19K) followed by makeyourtrip(9K).
+* RevPAR is highest for Mumbai(8.9K) and lowest for Hyderabad(5.4K).
+* Luxury is generated more revenue 61.62% as compared to Business Category which is generted 38.38%.
+* On Weekand(sat-sun) Occupancy is 8% more than Weekdays.
 
 
 
