@@ -47,6 +47,28 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 * RevPAR is highest for Mumbai(8.9K) and lowest for Hyderabad(5.4K).
 * Luxury is generated more revenue 61.62% as compared to Business Category which is generted 38.38%.
 * On Weekand(sat-sun) Occupancy is 8% more than Weekdays.
+* Highest Revenue generated in the month of May compared to June and July which is 582M.
+* Overall Revenue is 1.69 Billion,Occupancy % is 57.79%,Cancellation % is 24.84% ,Average Rating is 3.62.
+# Recommendations
+* Revenue Optimization: Focus on leveraging Mumbai's strong revenue performance by offering premium services or exclusive experiences. For underperforming cities like Hyderabad, targeted
+
+  marketing campaigns and service improvements can help boost revenue.
+
+* City-Specific Strategies: Bangalore, with the lowest occupancy and ratings, could benefit from customer feedback analysis to address service gaps and improve overall experience.
+  
+  For  high-performing cities like Delhi, maintaining quality while offering new services can further enhance customer satisfaction.
+
+* Peak Season Promotion: With May experiencing the highest number of bookings, consider offering special packages, incentives, and promotions during this time to further boost demand.
+
+* Room Class Optimization: Given the popularity of Elite rooms, consider increasing availability or offering bundled packages. To reduce cancellations, implement more flexible booking
+
+  policies or offer incentives to commit to reservations.
+
+* Platform Expansion: While Make Your Trip is the leading platform in hotel booking, diversifying partnerships with other booking platforms can help attract more customers and reduce
+
+  dependency on a single platform.
+
+* ADR is almost same on weekdays and weekends.so dynamically pricing can be set for all properties and platforms for more revenue generation.
 
 
 
