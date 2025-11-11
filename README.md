@@ -41,7 +41,7 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 # Important insights from the Dashboard
 * Mumbai generates the highest revenue (661 M) followed by Bangalore, Hyderabad and Delhi
 * AtliQ Exotica performs better compared to all 7 type of properties with 316 Million revenue, rating 3.62, occupancy % 57.20 and cancellation rate as 24.39%.
-* Occupancy % is highest for Delhi i.e 60.44%  inspite ofhaving lowest DSRN 435 and lowest for Bangalore is 55.68%.
+* Occupancy % is highest for Delhi i.e 60.44%  inspite of having lowest DSRN 435 and lowest for Bangalore is 55.68%.
 * Elite room class  generated highest revenue 554M whereas standard room class generated lowest revenue 306M.
 * Maximum number of bookings from others (19K) followed by makeyourtrip(9K).
 * RevPAR is highest for Mumbai(8.9K) and lowest for Hyderabad(5.4K).
